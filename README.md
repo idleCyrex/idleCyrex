@@ -15,6 +15,7 @@ Currently, I’m focusing on **React, Express.js, and IoT projects**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
@@ -23,8 +24,23 @@ Currently, I’m focusing on **React, Express.js, and IoT projects**.
 
 ## 🚀 Featured Projects
 
-### 🍌 [CheriéFamily](https://www.cheriefamily.com/)
-*React, Express*
+### 🌊 [CheriéFamily](https://www.cheriefamily.com/)
+*React, Express, Resend, MongoDB, Stripe*
+
+---
+
+### 🦷 [DentalClinic](https://github.com/idleCyrex/DentalClinic)
+*React, Express.js, Resend*
+
+---
+
+### 🚗 [Driving School](https://scoalade-soferi.ro)
+*React, Express.js, Resend, MongoDB*
+
+---
+
+### 💼 [Portfolio](https://idlee.xyz)
+*React, Express.js, Resend, MongoDB*
 
 ---
 
@@ -33,21 +49,6 @@ Currently, I’m focusing on **React, Express.js, and IoT projects**.
 
 ---
 
-### 🦷 [DentalClinic](https://github.com/idleCyrex/DentalClinic)
-*React, Express.js*
-
----
-
-### 💼 [Portfolio](https://idlee.xyz)
-*React, Express.js, Resend*
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idleCyrex&layout=compact&theme=radical)
-
----
 
 ## 🌍 Connect with Me
 
