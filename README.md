@@ -24,25 +24,21 @@ Currently, I’m focusing on **React, Express.js, and IoT projects**.
 ## 🚀 Featured Projects
 
 ### 🍌 [CheriéFamily](https://www.cheriefamily.com/)
-A modern React site for a Colombian exporter of premium agricultural products.  
-*React, Responsive Design*
+*React, Express*
 
 ---
 
 ### 🌫️ [Raspberry Pi Weather Monitor](https://github.com/idleCyrex/raspberry-pi-weather-air-quality-monitor)
-A real-time environmental monitoring system with live CO₂, TVOC, and temperature tracking.  
 *Raspberry Pi, Flask, Sensors*
 
 ---
 
 ### 🦷 [DentalClinic](https://github.com/idleCyrex/DentalClinic)
-Responsive dental clinic website with appointment management. Backend API integration coming soon.  
 *React, Express.js*
 
 ---
 
 ### 💼 [Portfolio](https://idlee.xyz)
-My personal portfolio showcasing skills, projects, and contact details.  
 *React, Express.js, Resend*
 
 ---
