@@ -12,7 +12,27 @@
 
 ---
 
+<img alt="$ ./contributions.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=580&height=34&lines=%24+.%2Fcontributions.sh" />
+
+<!-- animated contribution graph, real data, regenerated daily by
+     .github/workflows/update-profile-art.yml (scripts/render_heatmap_svg.py) -->
+<div align="center">
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Alex's GitHub contribution graph, auto-refreshed daily" />
+</div>
+
+---
+
 <img alt="$ whoami" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=300&height=34&lines=%24+whoami" />
+
+<!-- both svgs are 840x880, so equal widths give equal heights.
+     portrait: python scripts/make_ascii_svg.py (only when the photo changes)
+     stats:    python scripts/render_stats_svg.py (daily workflow) -->
+<table>
+<tr>
+<td valign="top"><img src="./assets/ascii-portrait.svg" width="420" alt="Alex, rendered as ASCII art" /></td>
+<td valign="top"><img src="./assets/stats.svg" width="420" alt="Alex's GitHub streak and contribution stats, auto-refreshed daily" /></td>
+</tr>
+</table>
 
 ```txt
 > Hey, I'm Alex. Full-stack dev, born in Romania, based in France.
@@ -73,44 +93,29 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 ---
 
-<img alt="$ git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=470&height=34&lines=%24+git+log+--stat" />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idleCyrex&theme=merko" alt="GitHub profile summary" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=idleCyrex&background=020A05&border=1C6E3E&stroke=1C6E3E&ring=28FF6A&fire=FF2E4D&currStreakNum=C9FFDC&currStreakLabel=28FF6A&sideNums=C9FFDC&sideLabels=C9FFDC&dates=2F9D5B&excludeDaysLabel=2F9D5B" alt="Contribution streak" />
-
-</div>
-
----
-
 <img alt="$ ls ~/projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=440&height=34&lines=%24+ls+~%2Fprojects" />
+
+**`[ AGENCY ]`**
+
+| Project | What it is | Live |
+|---|---|---|
+| 🛠️ **Chérie Software** · my own studio | bespoke sites, shops, booking systems & web apps, end to end · `Next.js` · `Vercel` | [software.cheriefamily.com](https://software.cheriefamily.com/) |
 
 **`[ SITES ]`**
 
-| Project | Stack | Live |
+| Project | What it is | Live |
 |---|---|---|
-| 🧪 **FBALAB** · web platform | `Next.js` · `MongoDB` | [www.fbalab.fr](https://www.fbalab.fr) |
-| 🌊 **CheriéFamily** · booking & payments | `React` · `Express` · `MongoDB` · `Stripe` · `Resend` | [cheriefamily.com](https://www.cheriefamily.com/) |
-| 🦷 **Dental Clinic** | `React` · `Express` · `MongoDB` | [dentist.idlee.xyz](https://dentist.idlee.xyz/) |
-| 🚗 **DRIVE 4U** · driving school | `React` · `Express` · `MongoDB` | [scoalade-soferi.ro](https://scoalade-soferi.ro/) |
-| 💾 **Portfolio** · this CRT terminal | `Next.js` · `Framer Motion` · `Lenis` · `Resend` | [idlee.xyz](https://idlee.xyz) |
+| 🧪 **FBA Lab** | Amazon FBA course platform + the *Flow* SaaS tool suite · `Next.js` · `MongoDB` · `Stripe` | [fbalab.fr](https://fbalab.fr/) |
+| 🧘 **The Elite Pilates Club** | studio site with class booking, memberships & a members' video library · `Next.js` · `Supabase` | [theelitepilatesclub.com](https://theelitepilatesclub.com/) |
+| 🚑 **Safe Life Med** | 24/7 private ambulance & medical transport, RO/EN · `Next.js` | [safe-life-med.ro](https://safe-life-med.ro/) |
+| 🌊 **Chérie Family** | brand hub for the catering + software sides of the family · `Next.js` | [cheriefamily.com](https://cheriefamily.com/) |
+| 🛥️ **Chérie at Sea** | luxury provisioning for yachts, villas & private jets · `React` · `Vite` | [cherieatsea.com](https://www.cherieatsea.com/) |
 
 **`[ GAMES ]`**
 
-| Project | Stack | Live |
+| Project | What it is | Live |
 |---|---|---|
-| ⏪ **Rewinder** · time-rewind platformer | `Unity` · `C#` | *in dev* |
-| 🥙 **Shaorma Clicker** | `JavaScript` · `HTML` · `CSS` | [play](https://shaorma.netlify.app/game.html) |
-
-**`[ HARDWARE ]`**
-
-| Project | Stack | Live |
-|---|---|---|
-| 🌫️ **Weather Station** · real-time temp/humidity/pressure | `Python` · `Raspberry Pi` · `Sensors` | [repo](https://github.com/idleCyrex/raspberry-pi-weather-station) |
+| ⏪ **Rewinder** | 2D time-rewind platformer, coming to Steam · `Unity 6` · `C#` | [rewinder.me](https://www.rewinder.me/) |
 
 ---
 
