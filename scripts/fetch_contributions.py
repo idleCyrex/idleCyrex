@@ -2,7 +2,7 @@
 """
 Pull the last year of daily contribution counts and write
 data/contributions.json with the raw days plus derived stats (streaks, best
-day, busiest weekday, monthly totals). No token needed.
+day). No token needed.
 
 Source 1: GitHub's own public contributions fragment (what the profile page
           renders), scraped with BeautifulSoup.
@@ -19,7 +19,9 @@ import sys
 
 import requests
 
-from theme import DATA_PATH, USERNAME
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+DATA_PATH = os.path.join(ROOT, "data", "contributions.json")
+USERNAME = os.environ.get("GH_PROFILE_USER", "idleCyrex")
 
 UA = {"User-Agent": "idlecyrex-profile-readme/1.0"}
 
@@ -102,11 +104,6 @@ def build(days):
     active = sum(1 for d in days if d["count"])
     best = max(days, key=lambda d: d["count"])
 
-    monthly, weekday = {}, [0] * 7
-    for d in days:
-        monthly[d["date"][:7]] = monthly.get(d["date"][:7], 0) + d["count"]
-        weekday[datetime.date.fromisoformat(d["date"]).weekday()] += d["count"]
-
     return {
         "username": USERNAME,
         "generated_at": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -117,8 +114,6 @@ def build(days):
         "current_streak": current_streak(days),
         "longest_streak": longest_streak(days),
         "best_day": {"date": best["date"], "count": best["count"]},
-        "busiest_weekday": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"][weekday.index(max(weekday))],
-        "monthly": [{"month": k, "total": v} for k, v in sorted(monthly.items())],
         "days": days,
     }
 

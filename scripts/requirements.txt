@@ -1,5 +1,2 @@
 requests==2.32.3
 beautifulsoup4==4.12.3
-# only needed for make_ascii_svg.py (run by hand when the photo changes)
-Pillow==11.3.0
-numpy==2.2.6

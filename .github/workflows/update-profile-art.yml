@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the contribution graph + stats card SVGs from real data.
+# Refreshes the contribution graph SVG from real data.
 # Runs daily, whenever the scripts change on main, and on demand.
 
 "on":
@@ -33,11 +33,8 @@ jobs:
       - name: Render contribution graph
         run: python scripts/render_heatmap_svg.py
 
-      - name: Render stats card
-        run: python scripts/render_stats_svg.py
-
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/contrib-heatmap.svg assets/stats.svg"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg"
