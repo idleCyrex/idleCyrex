@@ -10,7 +10,7 @@
 
 </div>
 
-I'm Alex, a full-stack developer from Romania, living in France. I design and build websites end to end, and host most of them myself on a VPS, a small Proxmox setup and a Raspberry Pi. I also run [Chérie Software](https://software.cheriefamily.com/), my web studio.
+Full-stack dev from Romania, based in France. I build websites and run the servers they live on.
 
 <img src="./assets/contrib-heatmap.svg" width="100%" alt="GitHub contributions over the last year" />
 
