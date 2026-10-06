@@ -64,9 +64,9 @@ Full-stack dev from Romania, based in France. I build websites and run the serve
 <sub>Unity · C#</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/idleCyrex/raspberry-pi-weather-station">Weather Station</a></b> · hardware<br/>
-Live temperature, humidity and pressure from sensors wired to a Raspberry Pi.<br/>
-<sub>Python · Raspberry Pi</sub>
+<a href="https://github.com/idleCyrex/raspberry-pi-weather-station"><img src="./assets/projects/weather-station.webp" alt="Weather Station" /></a>
+<b><a href="https://github.com/idleCyrex/raspberry-pi-weather-station">Weather Station</a></b> · live air quality, temperature, humidity and pressure<br/>
+<sub>Python · Flask · Raspberry Pi</sub>
 </td>
 </tr>
 </table>
