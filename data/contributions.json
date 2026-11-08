@@ -1,63 +1,28 @@
 {
   "username": "idleCyrex",
-  "generated_at": "2026-11-07T13:07:59Z",
+  "generated_at": "2026-11-08T13:29:11Z",
   "range": {
-    "start": "2025-11-02",
+    "start": "2025-11-09",
+    "end": "2026-11-08"
+  },
+  "total_contributions": 1014,
+  "active_days": 170,
+  "avg_per_active_day": 6.0,
+  "current_streak": {
+    "length": 33,
+    "start": "2026-10-06",
     "end": "2026-11-07"
   },
-  "total_contributions": 1081,
-  "active_days": 172,
-  "avg_per_active_day": 6.3,
-  "current_streak": {
-    "length": 32,
-    "start": "2026-10-06",
-    "end": "2026-11-06"
-  },
   "longest_streak": {
-    "length": 32,
+    "length": 33,
     "start": "2026-10-06",
-    "end": "2026-11-06"
+    "end": "2026-11-07"
   },
   "best_day": {
-    "date": "2025-11-07",
-    "count": 61
+    "date": "2026-07-23",
+    "count": 48
   },
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-11-05",
-      "count": 9,
-      "level": 1
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 61,
-      "level": 4
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-09",
       "count": 2,
@@ -1875,6 +1840,11 @@
     },
     {
       "date": "2026-11-07",
+      "count": 7,
+      "level": 1
+    },
+    {
+      "date": "2026-11-08",
       "count": 0,
       "level": 0
     }
