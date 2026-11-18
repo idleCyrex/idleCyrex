@@ -69,6 +69,18 @@ Full-stack dev from Romania, based in France. I build websites and run the serve
 <sub>Python · Flask · Raspberry Pi</sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://topolines.idlee.xyz/"><img src="./assets/projects/topolines.gif" alt="topolines" /></a>
+<b><a href="https://github.com/idleCyrex/topolines">topolines</a></b> · animated topographic contour lines as a GPU-drawn React background<br/>
+<sub>TypeScript · React · WebGL · npm</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://revealed.idlee.xyz/"><img src="./assets/projects/revealed.gif" alt="revealed" /></a>
+<b><a href="https://github.com/idleCyrex/revealed">revealed</a></b> · wet-edge WebGL image reveal for React and plain JS<br/>
+<sub>TypeScript · React · WebGL · npm</sub>
+</td>
+</tr>
 </table>
 
 #### Contact
