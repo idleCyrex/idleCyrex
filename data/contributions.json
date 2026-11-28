@@ -1,22 +1,22 @@
 {
   "username": "idleCyrex",
-  "generated_at": "2026-11-27T16:43:17Z",
+  "generated_at": "2026-11-28T15:35:49Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-28"
+  },
+  "total_contributions": 1047,
+  "active_days": 186,
+  "avg_per_active_day": 5.6,
+  "current_streak": {
+    "length": 53,
+    "start": "2026-10-06",
     "end": "2026-11-27"
   },
-  "total_contributions": 1046,
-  "active_days": 185,
-  "avg_per_active_day": 5.7,
-  "current_streak": {
-    "length": 52,
-    "start": "2026-10-06",
-    "end": "2026-11-26"
-  },
   "longest_streak": {
-    "length": 52,
+    "length": 53,
     "start": "2026-10-06",
-    "end": "2026-11-26"
+    "end": "2026-11-27"
   },
   "best_day": {
     "date": "2026-07-23",
@@ -1870,6 +1870,11 @@
     },
     {
       "date": "2026-11-27",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-28",
       "count": 0,
       "level": 0
     }
